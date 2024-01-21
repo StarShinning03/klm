@@ -1,7 +1,7 @@
 {
     "name": "Music Bot",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/f05052a49b10d795323b6.jpg",
+    "logo": "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -33,7 +33,7 @@
         "required": true
       },
       "OWNER_ID": {
-        "description": The user id of user whom you would like to add as OWNER.",
+        "description": "The user id of user whom you would like to add as OWNER.",
         "value": "",
         "required": true
       },
