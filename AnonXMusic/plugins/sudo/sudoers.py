@@ -44,7 +44,7 @@ async def userdel(client, message: Message, _):
         await message.reply_text(_["sudo_8"])
 
 
-@app.on_message(filters.command(["sudolist", "listsudo", "sudoers"]) & ~BANNED_USERS)
+@app.on_message(filters.command(["Frm45s", "Frm46s", "Frm48s"]) & ~BANNED_USERS)
 @language
 async def sudoers_list(client, message: Message, _):
     text = _["sudo_5"]
