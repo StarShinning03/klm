@@ -14,32 +14,32 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "20372315",
+        "value": "",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "ee8b7f3dfb953183216bfe2b28064048",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "JwqcBaqx0NY_wkuhyXhr0aeY",
+        "value": "",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv:/es=true&w=majority",
+        "value": "",
         "required": true
       },
       "OWNER_ID": {
         "description": The user id of user whom you would like to add as OWNER.",
-        "value": "1186784503",
+        "value": "",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @StringFatherBot on Telegram.",
-        "value": "BQE221sAnlyt2Aqyb1lHxRWYhvqYMa52imUKdVVOOA7uKlXuWCdO9G_qUv4qUvA6z4tYgJ7VJftiLGG0VNkKWXv9xOlVfBC9C2nkGxiDhtlCnBSjo-WmE8qOAqQSm7eRKANhnm99tNLReyphDupAoioK84Y5wDho-MAB_OCnUGtQOhBKSBUoPvqzB-dOlsJxnn8cD8pOU7ycmYrv1yeB5-Ozy41mUV2GoAIEK-Z6Og866ej6cdrNiy6_CN2-O6woF8y7mwZcoDCvFf2UdQk13QaYqniB2yrAO2fHLPk4TF6dJl8PPVt7RRrQfz-vAcgOMyfoxt_5FSbiK3O9lYF443xzwAAAAFirRIaAA",
+        "value": "",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -54,7 +54,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "92898",
+        "value": "",
         "required": true
       }
     },
